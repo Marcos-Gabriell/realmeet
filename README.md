@@ -1,5 +1,4 @@
-## Descrição do projeto OBS:AINDA ESTÁ EM DESENVOLVIMENTO 
-
+## Descrição do projeto OBS:Esta parado o desenvolvimento, mais logo voltaremos
 <p align="justify">
   Formação Java Backend Developer com Spring Boot.
 O RealMeet é um sistema de agendamento de salas de reunião, que vai substituir uma velha, confusa e problemática planilha, que é a forma como o controle é feito atualmente.
